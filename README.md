@@ -16,3 +16,9 @@ This is our target date for merging. Until then, the two organizations will cont
 
 ## Comunity Call and discussions about the merger
 - http://pad.software-carpentry.org/community-call-2017-05-18
+
+#### Merger Subcommittee Members
+- Karen Cranston (DC SC representative)
+- Rayna Harris (SWC SC representative)
+- Kate Hertweck (SWC SC representative)
+- Hilmar Lapp (DC SC representative)
