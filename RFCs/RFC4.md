@@ -44,5 +44,5 @@ subcommittees (see the [RFC on subcommittees]()).
 ## For Discussion:
 
 Please add your comments on RFC1 to [this issue](#4).
-* Q1: Do you have any comments or suggestions on the role of staff in the context of Carpentries umbrella organisation?
-* Q2: What do you see as the most urgent staffing priorities for the combined Carpentries organization? 
+* Q1: Do you have any comments or suggestions on the role of staff in the context of The Carpentries (umbrella organisation)?
+* Q2: What do you see as the most urgent staffing priorities for The Carpentries? 
