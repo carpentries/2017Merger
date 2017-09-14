@@ -1,6 +1,6 @@
 # RFC7: Lesson Organizations
 
-**Current vision:**
+**Current vision for Lesson Organizations:**
 * Responsibilities: 
   *Communication with Carpentries: Lesson Organizations will follow all policies as outlined by The Carpentries, 
   including regular reporting on activities.

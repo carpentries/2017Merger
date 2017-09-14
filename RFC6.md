@@ -1,10 +1,11 @@
 # RFC6: Subcommittees and task forces
 
 **Previous motion, approved by the Software Carpentry (SWC) Steering Committee and Data Carpentry (DC) Board:** 
+
 *Existing subcommittees and task forces will have a point of contact from among The Carpentries staff, rather than 
 reporting directly to the Board of Directors.* 
 
-**Current vision:**
+**Current vision for subcommittees and task forces:**
 * Reporting: The subcommittees perform important work of the organization. They currently report directly to the 
 SWC Steering Committee, which is inconsistent with a Board responsible for governance, not operations. The subcommittees 
 should instead work directly with staff, overseen by the Executive Director.

@@ -1,5 +1,6 @@
 # RFC3: Membership Council
 
+**Current vision for the Membership Council:**
 * Composition: The current Software Carpentry (SWC) Advisory Council will be transitioned to a Membership Council for 
 The Carpentries. This Membership Council will be composed similarily to the current 
 [SWC Advisory Council](https://github.com/swcarpentry/board/blob/master/advisory-council.md), with each member 

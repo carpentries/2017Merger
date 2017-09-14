@@ -1,6 +1,6 @@
 # RFC5: Finances
 
-**Current vision:**
+**Current vision for The Carpentries finances:**
 * Software Carpentry (SWC) and Data Carpentry (DC) are currently separate financial entities with independent budgets, 
 both sheltered by our fiscal sponsor NumFOCUS. 
 * Most income for both organizations is derived from organizational membership agreements (e.g., contracts signed 

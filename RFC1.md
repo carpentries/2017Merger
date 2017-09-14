@@ -8,10 +8,10 @@ is primarily responsible for finances, administration, instructor training and f
 Carpentry (Lesson Organization) is primarily responsible for lesson development and maintenance. 
 (Approved [July 3](https://github.com/swcarpentry/board/blob/master/minutes/minutes-2017-07-03.md))*
 
-**Responsibilities of The Carpentries:**
+**Current vision of responsibilities for The Carpentries:**
 * Operations:
   * Coordinating with partner organizations and grant agencies (negotiating contracts, allocation of resources, 
-  fulfillment of obligations)
+  	fulfillment of obligations)
   * Maintaining budget and reporting on finances
   * Appropriately allocating staff time to meet the needs of The Carpentries community and lesson organizations
   * Managing duplication and overlap (minimizing competition and mediating conflict between lesson organizations)

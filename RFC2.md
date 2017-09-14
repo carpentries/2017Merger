@@ -13,7 +13,7 @@ represent our current leadership perspectives from multiple viewpoints (geograph
 the Carpentries). These first appointments have been approved by the motion of DC Board and SWC Steering Committee on 
 31st of August.*
 
-**Carpentries Board of Directors:**
+**Current vision for The Carpentries Board of Directors:**
 * Responsibilities: We anticipate that role of the Board is governance / steering rather than execution / operations. 
 All members will share equally in the financial and legal responsibilities associated with Board service. Specific tasks 
 include:
