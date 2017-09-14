@@ -26,7 +26,7 @@ Carpentry (Lesson Organization) is primarily responsible for lesson development 
   * Discoverability of lessons (maintaining lesson release policy) 
 * Policy:
   * Policy for new and existing lesson organizations
-  * Onboarding for new lesson organizations (see the [RFC on lesson organizations]()).
+  * Onboarding for new lesson organizations (see the [RFC on lesson organizations](RFCs/RFC7.md)).
   * Communication and enforcement of all other responsibilities described above
 
 ## For Discussion:
