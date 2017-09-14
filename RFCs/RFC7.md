@@ -1,6 +1,6 @@
 # RFC7: Lesson Organizations
 
-**Current vision for Lesson Organizations:**
+## Current vision for Lesson Organizations:
 * Responsibilities: 
   *Communication with Carpentries: Lesson Organizations will follow all policies as outlined by The Carpentries, 
   including regular reporting on activities.
@@ -16,7 +16,9 @@ organizational resources, the Board of Directors will solicity community input p
 The Carpentries Board may also recommended compatible administrative structures and policies for prospective Lesson 
 Organizations.
 
-**For discussion:**
+## For discussion:
+
+Please add your comments on RFC7 to [this issue](#7).
 * Q1: Do you have any comments or suggestions on the organisation and role of the Lesson Organisations under the umbrella of The Carpentries organisation? Specifically:
 	* Q1a: responsibilities to The Carpentries and to the community?
 	* Q1b: governance model?

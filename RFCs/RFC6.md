@@ -1,11 +1,11 @@
 # RFC6: Subcommittees and task forces
 
-**Previous motion, approved by the Software Carpentry (SWC) Steering Committee and Data Carpentry (DC) Board:** 
+## Previous motion, approved by the Software Carpentry (SWC) Steering Committee and Data Carpentry (DC) Board: 
 
 *Existing subcommittees and task forces will have a point of contact from among The Carpentries staff, rather than 
 reporting directly to the Board of Directors.* 
 
-**Current vision for subcommittees and task forces:**
+## Current vision for subcommittees and task forces:
 * Reporting: The subcommittees perform important work of the organization. They currently report directly to the 
 SWC Steering Committee, which is inconsistent with a Board responsible for governance, not operations. The subcommittees 
 should instead work directly with staff, overseen by the Executive Director.
@@ -22,7 +22,9 @@ a point of contact (usually chair of the subcommittee) is required for reporting
   * Mentoring: resource for instructors and connected with instructor training
   * Infrastructure: maintaining consistent and stable templating for lessons
 
-**For discussion:**
+## For discussion:
+
+Please add your comments on RFC6 to [this issue](#6).
 * Q1: Do you have any comments or suggestions on the organisation of Subcommittees and Task Forces under the umbrella of 
 The Carpentries organisation? Specifically:
   * Q1a: on reporting?

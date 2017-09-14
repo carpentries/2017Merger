@@ -1,6 +1,6 @@
 # RFC2: Board of Directors
 
-**Previous motions, approved by the Software Carpentry (SWC) Steering Committee and Data Carpentry (DC) Board:**
+## Previous motions, approved by the Software Carpentry (SWC) Steering Committee and Data Carpentry (DC) Board:
 
 * *The Board of Directors for the combined organization [The Carpentries] will be composed of 9 members, each serving 
 a two year term without limits on the number of terms. Five members of the board will be appointed through a process 
@@ -13,7 +13,7 @@ represent our current leadership perspectives from multiple viewpoints (geograph
 the Carpentries). These first appointments have been approved by the motion of DC Board and SWC Steering Committee on 
 31st of August.*
 
-**Current vision for The Carpentries Board of Directors:**
+## Current vision for The Carpentries Board of Directors:
 * Responsibilities: We anticipate that role of the Board is governance / steering rather than execution / operations. 
 All members will share equally in the financial and legal responsibilities associated with Board service. Specific tasks 
 include:
@@ -27,7 +27,9 @@ procedures will be adapted from SWC’s current processes (https://github.com/sw
 Membership guidelines (who can vote and run in election) includes active instructors or other contributing community 
 members (as tracked in AMY)
 
-**For Discussion:**
+## For Discussion:
+
+Please add your comments on RFC2 to [this issue](#2).
 * Q1: Do you agree with above described responsibilities of the Board of Directors of The Carpentries organisation? 
 Specifically:
   * Q1a: Are there any responsibilities missing?
