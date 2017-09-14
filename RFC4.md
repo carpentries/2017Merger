@@ -2,7 +2,7 @@
 
 **Previous motions, approved by the Software Carpentry (SWC) Steering Committee and Data Carpentry (DC) Board:** 
 * *The combined organization will have an Executive Director who reports to the Board of Directors. Initially, this 
-position will be offered to Dr. Tracy Teal. 
+position will be offered to Dr. Tracy Teal.* 
 * *The combined organization will have a Director of Business Development who reports to the Executive Director. 
 Initially, this position will be offered to Jonah Duckles. 
 (Approved [July 3](https://github.com/swcarpentry/board/blob/master/minutes/minutes-2017-07-03.md))*
