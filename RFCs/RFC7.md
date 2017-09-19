@@ -2,7 +2,7 @@
 
 ## Current vision for Lesson Organizations:
 * Responsibilities: 
-  *Communication with Carpentries: Lesson Organizations will follow all policies as outlined by The Carpentries, 
+  * Communication with Carpentries: Lesson Organizations will follow all policies as outlined by The Carpentries, 
   including regular reporting on activities.
   * Curriculum development: What is a workshop for the Lesson Organization?
   * Lesson maintenance: What is lesson life cycle (goals of lesson, when does it become supported, when is it retired), 
@@ -12,7 +12,7 @@
 although the specific methods through which leadership occurs is determined by the lesson organization.
 Onboarding for new lesson organizations: The Carpentries Board will be responsible for assessing alignment of the prospective 
 lesson organization’s mission and their ability to meet the responsibilities described. Given these decisions impact 
-organizational resources, the Board of Directors will solicity community input prior to deciding whether to extend an offer. 
+organizational resources, the Board of Directors will solicit community input prior to deciding whether to extend an offer. 
 The Carpentries Board may also recommended compatible administrative structures and policies for prospective Lesson 
 Organizations.
 
