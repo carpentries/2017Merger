@@ -22,7 +22,7 @@ both groups have written a series of Requests for Comments (RFCs). RFCs are a me
 ([traditionally used for development of internet standards](https://en.wikipedia.org/wiki/Request_for_Comments)) 
 through which leaders can gain a better understanding of community opinions on policies 
 and activities that have yet to be implemented. Each RFC contains proposed ideas for the 
-combined organization, with a few questions to solicit feedback. After September 30, 2017, 
+combined organization, with a few questions to solicit feedback. After October 6, 2017, 
 the Software Carpentry steering committee and Data Carpentry Board 
 will review the community’s ideas and incorporate them into future decisions about the 
 merger.  
@@ -45,12 +45,12 @@ latest news about what’s happening with the merger and how you can be involved
 
 If you have other, general questions about the merger, please add them to [this issue](#8).
 
-## Timeline (tentative)
-* September 30, 2017: Feedback from RFCs incorporated into official planning 
-* October 2017: call for nominations and announcement of elections for The Carpentries 
+## Timeline
+* October 6, 2017: call for feedback from RFCs ends, comments incorporated into official planning 
+* October 16, 2017 (tentative): call for nominations and announcement of elections for The Carpentries 
 Board of Directors
-* November: community call to introduce election candidates
-* December 2017: elections for The Carpentries Board of Directors (four of nine total 
+* November 16, 2017: community call to introduce election candidates
+* December 4-8, 2017 (tentative): elections for The Carpentries Board of Directors (four of nine total 
 members; other five are appointed)
 * January 1, 2018: The Carpentries Board of Directors officially takes over leadership
 
