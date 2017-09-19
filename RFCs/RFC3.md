@@ -12,7 +12,7 @@ into a stronger group of advocates for The Carpentries through regular meetings 
 * Medium to long-term plan: Create a separate Advisory Council (8-10 individuals) of non-Board members who can provide 
 outside insight into strategic planning.
 
-## For discussion:**
+## For discussion:
 
 Please add your comments on RFC3 to [this issue](#3).
 * Q1: Do you have any comments on the purpose or role of the Membership Council?
