@@ -27,7 +27,7 @@ to the ED.
 * Other staff: All other current staff will be invited to transition to employees of The Carpentries 
 (note: Maneesha, Erin, and Belinda already share responsibility with for both SWC and DC). Specific responsibilities will 
 be determined by the ED, and will include having at least one staff person assigned as point of contact for each of the 
-subcommittees (see the [RFC on subcommittees]()).
+subcommittees (see the [RFC on subcommittees](RFCs/RFC6.md)).
 * Recommendations for organizational structure and staff roles:
   * Major responsibilities currently overseen by staff include:
   * Negotiating organizational memberships
