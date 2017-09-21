@@ -1,5 +1,7 @@
 # RFC3: Membership Council
 
+STATUS: Open until October 6, 2017
+
 ## Current vision for the Membership Council:
 * Composition: The current Software Carpentry (SWC) Advisory Council will be transitioned to a Membership Council for 
 The Carpentries. This Membership Council will be composed similarily to the current 
