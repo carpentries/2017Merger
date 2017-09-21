@@ -7,8 +7,7 @@ both sheltered by our fiscal sponsor NumFOCUS.
 with institutions as silver/gold/platinum memberships), grants, and workshop fees. The vast majority of organizational 
 memberships are joint between SWC and DC, so institutional members are not likely to experience substantially different 
 interactions with The Carpentries than with SWC and DC as they currently exist. 
-* The Carpentries would operate under a unified budget initially sheltered under NumFOCUS, but will initiate planning 
-for emergence as an independent 501(c)(3) non-profit organization registered in the USA.
+* The Carpentries will operate under a unified budget initially sheltered under NumFOCUS.
 
 ## For discussion:
 
