@@ -1,5 +1,7 @@
 # RFC2: Board of Directors
 
+STATUS: Open until October 6, 2017
+
 ## Previous motions, approved by the Software Carpentry (SWC) and Data Carpentry (DC) Steering Committees:
 
 * *The Board of Directors for the combined organization [The Carpentries] will be composed of 9 members, each serving 
