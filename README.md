@@ -7,7 +7,7 @@ evolved to share memberships, infrastructure for workshop coordination, an instr
 training program, and even some staff members. You can learn about the history of the two 
 organisations and reasons for the merger in [this blog post](https://software-carpentry.org/blog/2017/09/merger.html).
 
-The Software Carpentry Steering Committee and Data Carpentry Board met jointly and 
+The Software Carpentry and Data Carpentry Steering Committees met jointly and 
 approved two motions on August 30, 2017, which together form a strong commitment to 
 an eventual transition to a single umbrella organization (provisionally titled 
 “The Carpentries”) to oversee shared responsibilities, with Software Carpentry and 
@@ -23,7 +23,7 @@ both groups have written a series of Requests for Comments (RFCs). RFCs are a me
 through which leaders can gain a better understanding of community opinions on policies 
 and activities that have yet to be implemented. Each RFC contains proposed ideas for the 
 combined organization, with a few questions to solicit feedback. After October 6, 2017, 
-the Software Carpentry steering committee and Data Carpentry Board 
+the Software Carpentry and Data Carpentry Steering Committees  
 will review the community’s ideas and incorporate them into future decisions about the 
 merger.  
 
@@ -65,7 +65,7 @@ members; other five are appointed)
 
 
 #### Merger Subcommittee Members
-- Karen Cranston (DC Board representative)
+- Karen Cranston (DC SC representative)
 - Rayna Harris (SWC SC representative)
 - Kate Hertweck (SWC SC representative)
-- Hilmar Lapp (DC Board representative)
+- Hilmar Lapp (DC SC representative)
