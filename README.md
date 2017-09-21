@@ -7,7 +7,7 @@ evolved to share memberships, infrastructure for workshop coordination, an instr
 training program, and even some staff members. You can learn about the history of the two 
 organisations and reasons for the merger in [this blog post](https://software-carpentry.org/blog/2017/09/merger.html).
 
-The Software Carpentry and Data Carpentry Steering Committees met jointly and 
+The Software Carpentry and Data Carpentry Steering Committees (SC) met jointly and 
 approved two motions on August 30, 2017, which together form a strong commitment to 
 an eventual transition to a single umbrella organization (provisionally titled 
 “The Carpentries”) to oversee shared responsibilities, with Software Carpentry and 
