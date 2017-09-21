@@ -15,6 +15,7 @@ Carpentry (Lesson Organization) is primarily responsible for lesson development 
   * Maintaining budget and reporting on finances
   * Appropriately allocating staff time to meet the needs of The Carpentries community and lesson organizations
   * Managing duplication and overlap (minimizing competition and mediating conflict between lesson organizations)
+  * Instructor membership management and maintaining records of Carpentries instructors
 * Programming:
   * Instructor training (including Instructor Trainers subcommittee)
   * Workshop organization (administration, maintenance of workshop template)
