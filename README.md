@@ -35,6 +35,8 @@ latest news about what’s happening with the merger and how you can be involved
 
 
 ## RFCs
+
+**All of the following are open until October 6, 2017**
 * [RFC1](RFCs/RFC1.md) Organization and responsibilities of The Carpentries 
 * [RFC2](RFCs/RFC2.md) Board of Directors
 * [RFC3](RFCs/RFC3.md) Membership Council (transition from current Software Carpentry Advisory Council)
