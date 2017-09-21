@@ -1,5 +1,7 @@
 # RFC1: Structure and organization of The Carpentries
 
+STATUS: Open until October 6, 2017
+
 ## Previous motion, approved by the Software Carpentry (SWC) Steering Committee and Data Carpentry (DC) Board:
 
 *The Carpentries is composed of the following basic structure: A Carpentry umbrella organization (hereafter 
