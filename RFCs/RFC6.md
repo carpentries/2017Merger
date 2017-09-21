@@ -1,5 +1,7 @@
 # RFC6: Subcommittees and task forces
 
+STATUS: Open until October 6, 2017
+
 ## Previous motion, approved by the Software Carpentry (SWC) Steering Committee and Data Carpentry (DC) Board: 
 
 *Existing subcommittees and task forces will have a point of contact from among The Carpentries staff, rather than 
