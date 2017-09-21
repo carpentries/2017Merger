@@ -1,13 +1,13 @@
 # RFC2: Board of Directors
 
-## Previous motions, approved by the Software Carpentry (SWC) Steering Committee and Data Carpentry (DC) Board:
+## Previous motions, approved by the Software Carpentry (SWC) and Data Carpentry (DC) Steering Committees:
 
 * *The Board of Directors for the combined organization [The Carpentries] will be composed of 9 members, each serving 
 a two year term without limits on the number of terms. Five members of the board will be appointed through a process 
 of nomination (with community input) to the board followed by voting by remaining board members. The other four members 
 will be elected by the membership of the organization. 
 (Approved [July 3](https://github.com/swcarpentry/board/blob/master/minutes/minutes-2017-07-03.md))*
-* *Appointed members: The first set of appointees come from current members of DC’s Board (Ethan White and Karen Cranston) 
+* *Appointed members: The first set of appointees come from current members of DC’s Steering Committee (Ethan White and Karen Cranston) 
 and SWC’s (elected) Steering Committee (Mateusz Kuzak, Sue McClatchy, Kate Hertweck). These individuals were chosen to 
 represent our current leadership perspectives from multiple viewpoints (geography, technical expertise, experience with 
 the Carpentries). These first appointments have been approved by the motion of DC Board and SWC Steering Committee on 
