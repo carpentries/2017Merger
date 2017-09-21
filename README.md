@@ -47,6 +47,9 @@ latest news about what’s happening with the merger and how you can be involved
 
 If you have other, general questions about the merger, please add them to [this issue](#8).
 
+If you prefer not to respond on GitHub, or would like to remain anonymous, you may respond to the 
+RFCs using this [Google Form](https://docs.google.com/forms/d/1O2OzFhxcYGlUu_x3mBeQ-EVzJ1z0Q_-ZuArnmlxvdfs/viewform?edit_requested=true).
+
 ## Timeline
 * October 6, 2017: call for feedback from RFCs ends, comments incorporated into official planning 
 * October 16, 2017 (tentative): call for nominations and announcement of elections for The Carpentries 
