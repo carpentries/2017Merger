@@ -1,5 +1,7 @@
 # RFC4: Staff
 
+STATUS: Open until October 6, 2017
+
 ## Previous motions, approved by the Software Carpentry (SWC) Steering Committee and Data Carpentry (DC) Board: 
 * *The combined organization will have an Executive Director who reports to the Board of Directors. Initially, this 
 position will be offered to Dr. Tracy Teal.* 
