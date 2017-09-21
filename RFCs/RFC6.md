@@ -20,7 +20,7 @@ a point of contact (usually chair of the subcommittee) is required for reporting
   * Policy: enforcing Code of Conduct
   * CarpentryCon task force: planning and implementing (yearly?) convention for community
   * Mentoring: resource for instructors and connected with instructor training
-  * Infrastructure: maintaining consistent and stable templating for lessons
+  * Infrastructure: maintaining consistent and stable templating for lessons and workshops
 
 ## For discussion:
 
