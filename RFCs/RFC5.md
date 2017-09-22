@@ -13,5 +13,5 @@ interactions with The Carpentries than with SWC and DC as they currently exist.
 
 ## For discussion:
 
-Please add your comments on RFC5 to [this issue](#5).
+Please add your comments on RFC5 to [this issue](https://github.com/carpentries/2017Merger/issues/5).
 * Q1: Do you have any questions about The Carpentries financial status? 
