@@ -16,5 +16,5 @@ outside insight into strategic planning.
 
 ## For discussion:
 
-Please add your comments on RFC3 to [this issue](#3).
+Please add your comments on RFC3 to [this issue](https://github.com/carpentries/2017Merger/issues/3).
 * Q1: Do you have any comments on the purpose or role of the Membership Council?
