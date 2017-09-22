@@ -31,7 +31,7 @@ members (as tracked in AMY)
 
 ## For Discussion:
 
-Please add your comments on RFC2 to [this issue](#2).
+Please add your comments on RFC2 to [this issue](https://github.com/carpentries/2017Merger/issues/2).
 * Q1: Do you agree with above described responsibilities of the Board of Directors of The Carpentries organisation? 
 Specifically:
   * Q1a: Are there any responsibilities missing?
