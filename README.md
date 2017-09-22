@@ -45,7 +45,7 @@ latest news about what’s happening with the merger and how you can be involved
 * [RFC6](RFCs/RFC6.md) Subcommittees and task forces
 * [RFC7](RFCs/RFC7.md) Lesson Organizations
 
-If you have other, general questions about the merger, please add them to [this issue](#8).
+If you have other, general questions about the merger, please add them to [this issue](https://github.com/carpentries/2017Merger/issues/8).
 
 If you prefer not to respond on GitHub, or would like to remain anonymous, you may respond to the 
 RFCs using this [Google Form](https://docs.google.com/forms/d/1O2OzFhxcYGlUu_x3mBeQ-EVzJ1z0Q_-ZuArnmlxvdfs/viewform?edit_requested=true).
