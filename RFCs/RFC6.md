@@ -26,7 +26,7 @@ a point of contact (usually chair of the subcommittee) is required for reporting
 
 ## For discussion:
 
-Please add your comments on RFC6 to [this issue](#6).
+Please add your comments on RFC6 to [this issue](https://github.com/carpentries/2017Merger/issues/6).
 * Q1: Do you have any comments or suggestions on the organisation of Subcommittees and Task Forces under the umbrella of 
 The Carpentries organisation? Specifically:
   * Q1a: on reporting?
