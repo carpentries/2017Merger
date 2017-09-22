@@ -45,6 +45,6 @@ subcommittees (see the [RFC on subcommittees](RFCs/RFC6.md)).
 
 ## For Discussion:
 
-Please add your comments on RFC4 to [this issue](#4).
+Please add your comments on RFC4 to [this issue](https://github.com/carpentries/2017Merger/issues/4).
 * Q1: Do you have any comments or suggestions on the role of staff in the context of The Carpentries (umbrella organisation)?
 * Q2: What do you see as the most urgent staffing priorities for The Carpentries? 
