@@ -27,7 +27,7 @@ Organizations.
 
 ## For discussion:
 
-Please add your comments on RFC7 to [this issue](#7).
+Please add your comments on RFC7 to [this issue](https://github.com/carpentries/2017Merger/issues/7).
 * Q1: Do you have any comments or suggestions on the organisation and role of the Lesson Organisations under the umbrella of The Carpentries organisation? Specifically:
 	* Q1a: responsibilities to The Carpentries and to the community?
 	* Q1b: governance model?
