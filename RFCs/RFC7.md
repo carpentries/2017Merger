@@ -17,7 +17,7 @@ lesson organization’s mission and their ability to meet the responsibilities d
 organizational resources, the Board of Directors will solicit community input prior to deciding whether to extend an offer. 
 The Carpentries Board may also recommended compatible administrative structures and policies for prospective Lesson 
 Organizations.
-* **Responsibilities of The Carpentries to Lesson Organizations** (please see [RFC1](RFCs/RFC1.md) for a description of responsibilities of The Carpentries in general):
+* **Responsibilities of The Carpentries to Lesson Organizations** (please see [RFC1](https://github.com/carpentries/2017Merger/blob/master/RFCs/RFC1.md) for a description of responsibilities of The Carpentries in general):
   * Workshop coordination, including infrastructure
   * Lesson and workshop templates
   * Lesson development infrastructure
