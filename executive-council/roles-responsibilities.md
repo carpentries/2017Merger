@@ -1,4 +1,4 @@
-### Roles and Responsibilities for Steering Committee Members
+### Roles and Responsibilities for Executive Council Members
 
 Committee members will:
 
@@ -12,4 +12,4 @@ Committee members will:
 * develop and guide strategic planning for the Carpentries
 * work in the best interest of the organization as a whole
 
-The Steering Committee will also identify members to serve in the following roles: Chair, Vice Chair, Treasurer, and Secretary, each of whom will have additional responsibilities.
+The Executive Council will also identify members to serve in the following roles: Chair, Vice Chair, Treasurer, and Secretary, each of whom will have additional responsibilities.
